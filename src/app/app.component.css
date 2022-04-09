@@ -1,0 +1,49 @@
+form {
+  width: 100%;
+}
+
+.input-field {
+  width: 100%;
+}
+
+#card-filter {
+  width: 60%;
+}
+
+#follow {
+  display: flex;
+  margin-top: 16px;
+}
+
+#following {
+  margin-left: 48px;
+}
+
+.center {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.table-full-width {
+  width: 100%;
+}
+
+#card-filter-footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#card-filter-content {
+  margin-top: 32px;
+}
+
+#card-result {
+  margin-top: 32px;
+  margin-bottom: 32px;
+  width: 60%;
+}
+
+#search-btn {
+  margin-left: 16px;
+}
